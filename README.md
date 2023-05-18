@@ -15,3 +15,24 @@ This repo employing a large language model to revolutionizes the field by provid
 5. Make primer to site-directed mutagenesis.
 6. Do some experiments to proof of concepts.
 7. Done
+
+
+# Streamlit cheat sheet
+
+## Install & Import
+
+```
+streamlit run streamlit_app.py
+```
+
+## Command line
+
+```
+streamlit --help
+streamlit run your_script.py
+streamlit hello
+streamlit config show
+streamlit cache clear
+streamlit docs
+streamlit --version
+```
